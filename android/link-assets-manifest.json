@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Alkatra-Bold.ttf",
+      "sha1": "091f359796a11546e5492aeafefd582b1c6267b7"
+    },
+    {
+      "path": "assets/fonts/Alkatra-Medium.ttf",
+      "sha1": "546c105063c2530c3115a02f4fdcfddb6ebdd304"
+    },
+    {
+      "path": "assets/fonts/Alkatra-Regular.ttf",
+      "sha1": "4d69ea1bbf0cb4f277177046543a595d6401802b"
+    },
+    {
+      "path": "assets/fonts/Alkatra-SemiBold.ttf",
+      "sha1": "bf71b4bfa4ff217e8bf72dd1efe56d46d5860a27"
+    },
+    {
+      "path": "assets/fonts/Audiowide-Regular.ttf",
+      "sha1": "651503b7a0a89f49f78f14d04c62f811853573cd"
+    },
+    {
+      "path": "assets/fonts/Honk-Regular.ttf",
+      "sha1": "f7abb9cb00ef6184dc1d18f341cb303c886c5c30"
+    }
+  ]
+}
