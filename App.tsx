@@ -9,8 +9,9 @@ const Stack = createStackNavigator();
 
 const App = () => {
   return (
+    <>
     <NavigationContainer>
-      <Stack.Navigator> 
+      <Stack.Navigator>
         <Stack.Screen
           name="PC Architect"
           component={IntroScreen}
@@ -27,7 +28,9 @@ const App = () => {
         <Stack.Screen name="Go back" component={AutomaticBuilder} />
       </Stack.Navigator>
     </NavigationContainer>
+    </>
   );
+
 };
 
 export default App;

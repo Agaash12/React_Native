@@ -23,7 +23,7 @@ const IntroScreen = () => {
       setPassword('');
       Alert.alert(
         'Login Successful',
-        'Creators :\n\n-Agaash A (RA2131241020001)\n-Yogesh Y (RA2131241020010)\n-Deepak Kumar R (RA2131241020013)'
+        'Creator :\n\n-Agaash A '
       );
     } else {
       Alert.alert('Login Failed', 'Invalid username or password. Please try again.');
